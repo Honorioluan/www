@@ -71,4 +71,7 @@ class Medicos extends \yii\db\ActiveRecord
             'status' => Yii::t('app', 'Status'),
         ];
     }
+
+
+
 }
